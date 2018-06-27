@@ -1,0 +1,6 @@
+framework module Pods_favoritos1_Example {
+  umbrella header "Pods-favoritos1_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "favoritos1",
+  "version": "0.1.0",
+  "summary": "A short description of favoritos1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jgarcipi/favoritos1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jgarcipi": "jhonly_thebest1@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/jgarcipi/favoritos1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "favoritos1/Classes/**/*"
+}
